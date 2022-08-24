@@ -1,0 +1,16 @@
+h1{
+    color: orange;
+    background-color: slategray;
+    font-size: 30px;
+    font-family: Arial;
+    text-decoration: underline;
+    text-align: center;
+}
+
+p{color: slategray;
+    text-align: right;
+    line-height: 30px;
+    letter-spacing: 3px;
+    column-count: 2;
+    column-gap: 3px;
+}
