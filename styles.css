@@ -1,16 +1,11 @@
-h1{
-    color: orange;
-    background-color: slategray;
-    font-size: 30px;
-    font-family: Arial;
-    text-decoration: underline;
-    text-align: center;
-}
+div{
+    color: lightcoral;
+    border: 1px solid gray;
+    margin: 40px;
+    font-weight: bold;
 
-p{color: slategray;
-    text-align: right;
-    line-height: 30px;
-    letter-spacing: 3px;
-    column-count: 2;
-    column-gap: 3px;
+}
+p{
+    border: inherit;
+    margin: inherit;
 }
